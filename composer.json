@@ -1,5 +1,5 @@
 {
-    "name": "tcgunel/omnipay-paytr",
+    "name": "naimeken/omnipay-paytr",
     "type": "library",
     "description": "Omnipay extension for PayTR",
     "keywords": [
